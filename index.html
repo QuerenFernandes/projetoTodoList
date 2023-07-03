@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo List - Andritz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="form">
+        <h1>Lista de Tarefas</h1>
+    </header>
+    <form id="todo-form" class="form">
+        
+        <label for="name">Nome:</label>
+        <input type="text" id="name" required>
+
+        <label for="description">Descrição:</label>
+        <textarea id="description" required></textarea>
+
+        <label for="start-date">Data de Início:</label>
+        <input type="date" id="start-date" required>
+
+        <label for="end-date">Data Fim:</label>
+        <input type="date" id="end-date" required>
+
+        <button type="submit" class="botao">Adicionar Tarefa</button>
+    </form>
+    <div class="form">
+        <h2>Tarefas:</h2>
+        <ul id="todo-list"></ul>
+    </div>
+    
+    <script src="index.js"></script>
+</body>
+</html>
