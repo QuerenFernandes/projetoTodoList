@@ -7,10 +7,11 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header class="form">
-        <h1>Lista de Tarefas</h1>
-    </header>
+
     <form id="todo-form" class="form">
+        <nav class="form">
+            <h1>Lista de Tarefas</h1>
+        </nav>
         
         <label for="name">Nome:</label>
         <input type="text" id="name" required>
@@ -25,9 +26,10 @@
         <input type="date" id="end-date" required>
 
         <button type="submit" class="botao">Adicionar Tarefa</button>
+        <button id="save-button" type="submit" style="display: none;" class="botao">Salvar</button>
     </form>
     <div class="form">
-        <h2>Tarefas:</h2>
+        <h1>Tarefas:</h1>
         <ul id="todo-list"></ul>
     </div>
     
