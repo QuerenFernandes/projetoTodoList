@@ -1,17 +1,17 @@
-# Nome do meu projeto
+# Projeto Todo List
 
-Rápida descrição do objetivo de fazer esse projeto
+Desenvolvi uma aplicação web, na qual o usuário consegue adicionar tarefas para serem executadas. As tarefas possuem 4 parâmetros, sendo eles: nome, descrição, data de início e data final. 
+A inteção era que o arquivo tivesse ligação com o projeto do backend (que consta no anexo), porém não consegui fazer a integração dos mesmos (esse foi o meu primeiro projeto envolvendo as tecnologias do backend e do frontend juntas).
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+Executando o index.html no navegador é possível ver a funcionalidade do código, bem como sua estilização.
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
-## Detalhes do projeto
+As tecnologias utilizadas foram:
+ 
+- HTML
+- CSS
+- Java Script
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Você pode conferir o projeto em: 
+
+![teste](https://github.com/QuerenFernandes/projetoTodoList/assets/95857175/4c9a5bcf-4f47-4830-a8d2-9295ec326c0a)
