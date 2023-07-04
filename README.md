@@ -1,17 +1,17 @@
-# Nome do meu projeto
+# Projeto Todo List
 
-Rápida descrição do objetivo de fazer esse projeto
+Desenvolvi uma aplicação web, na qual o usuário consegue adicionar tarefas para serem executadas. As tarefas possuem 4 parâmetros, sendo eles: nome, descrição, data de início e data final. 
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+Executando o index.html no navegador é possível ver a funcionalidade do código, bem como sua estilização.
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+As tecnologias utilizadas foram:
+ 
+- HTML
+- CSS
+- Java Script
 
-## Detalhes do projeto
+Você pode acessar o projeto em: 
+https://querenfernandes.github.io/projetoTodoList/
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+![teste](https://github.com/QuerenFernandes/projetoTodoList/assets/95857175/cd717b82-cb7d-446b-8902-d0d84918ef0a#vitrinedev)
+
